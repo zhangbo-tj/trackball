@@ -1,0 +1,7 @@
+nbproject/
+*.o
+tmp*
+*tmp
+*~
+build/
+
