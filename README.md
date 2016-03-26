@@ -2,8 +2,8 @@
 
 ## Overview
 
-trackball is a standalone C++ interactor for lightweight 3D programs.
-A TrackbBall (aka ArcBall) orbits about an arbitrary world coordinate, although
+Trackball is a standalone C++ interactor for lightweight 3D programs.<br>
+A TrackBall (aka ArcBall) orbits about an arbitrary world coordinate, although
 this implementation also allows first-person pitch and yaw if desired.
 A right-hand ZYX system is used, but can be easily ported to a left-hand system.
 
@@ -31,6 +31,11 @@ A right-hand ZYX system is used, but can be easily ported to a left-hand system.
 ### Run
 
     $ ./examples/glfw/example
+
+## References
+
+* [GLM](http://glm.g-truc.net) (OpenGL) Graphics Library Mathematics
+* [Object Mouse Trackball](https://www.opengl.org/wiki/Object_Mouse_Trackball) Concept
 
 ## License
 
